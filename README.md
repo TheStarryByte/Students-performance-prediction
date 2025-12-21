@@ -19,15 +19,6 @@ and machine learning techniques.
 
 ---
 
-## ML Approach
-
-1. Data cleaning and missing-value handling
-2. Exploratory data analysis (EDA)
-3. Feature selection
-4. Linear Regression model training
-5. Score prediction and evaluation
-
----
 
 ## Results
 
